@@ -1,0 +1,25 @@
+{
+    "name": "Split",
+    "short_name": "Split",
+    "description": "Split shared expenses privately with roommates and friends.",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#F6F1EA",
+    "theme_color": "#F6F1EA",
+    "icons": [
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "any"
+        },
+        {
+            "src": "icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml",
+            "purpose": "maskable"
+        }
+    ]
+}
